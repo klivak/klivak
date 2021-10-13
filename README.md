@@ -4,8 +4,8 @@
 - Front-end developer since 2014
 
 #### Education:
-- Bachelor's Degree in Computer Science (CS) - 2016
-- Master's Degree in Computer Science (CS) - 2018
+- Bachelor's Degree in Computer Science (CS)
+- Master's Degree in Computer Science (CS)
 
 #### Languages and Tools:
 HTML, CSS, SASS/SCSS, JS, Angular, Vue, Nuxt, GSAP, WebGL, Three.js, A-Frame, AR.js, WebStorm/PhpStorm, Jira.
