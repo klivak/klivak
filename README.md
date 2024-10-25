@@ -4,14 +4,12 @@
 - Front-end developer since 2014
 
 #### Education:
-- Bachelor's Degree in Computer Science (CS)
-- Master's Degree in Computer Science (CS)
+- Bachelor's Degree in Computer Science
+- Master's Degree in Computer Science
+- Master's Degree in Computer Software Engineering
 
 #### Languages and Tools:
-HTML, CSS, SASS/SCSS, JS, Angular, Vue, Nuxt, GSAP, WebGL, Three.js, A-Frame, AR.js, WebStorm/PhpStorm, Jira.
-
-#### Have some basic knowledge of:
-C++, C#, Java, PHP, Laravel, WP, SQL, Prolog, React, React Native, NativeScript-Vue.
+HTML, CSS, SASS/SCSS, JS, TS, Angular 6+, Vue 2/3, Nuxt 3, GSAP, WebGL, Three.js, A-Frame, AR.js, WebStorm/PhpStorm, Jira/ClickUp.
 
 <!--
 **klivak/klivak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
