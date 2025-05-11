@@ -1,4 +1,4 @@
-### Hi, I'm Vlad 👋
+### Hello 👋
 
 #### Work Experience:
 - Front-end developer since 2014
@@ -7,9 +7,10 @@
 - Bachelor's Degree in Computer Science
 - Master's Degree in Computer Science
 - Master's Degree in Computer Software Engineering
+- Master's Degree in Vocational Education (Digital technologies)
 
 #### Languages and Tools:
-HTML, CSS, SASS/SCSS, JS, TS, Angular 6+, Vue 2/3, Nuxt 3, GSAP, WebGL, Three.js, A-Frame, AR.js, WebStorm/PhpStorm, Jira/ClickUp.
+HTML, CSS, SASS/SCSS, JavaScript, TypeScript, Angular 6+, Vue 2/3, Nuxt 3, WebGL, Three.js, A-Frame, AR.js, GSAP.
 
 <!--
 **klivak/klivak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
