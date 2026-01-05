@@ -1,16 +1,13 @@
 ### Hello 👋
 
-#### Work Experience:
-- Front-end developer since 2014
+#### 💼 Work Experience
+- Front-end Developer with **10+ years of experience**
 
-#### Education:
-- Bachelor's Degree in Computer Science
-- Master's Degree in Computer Science
-- Master's Degree in Computer Software Engineering
-- Master's Degree in Vocational Education (Digital technologies)
-
-#### Languages and Tools:
-HTML, CSS, SASS/SCSS, JavaScript, TypeScript, Angular 6+, Vue 2/3, Nuxt 3, WebGL, Three.js, A-Frame, AR.js, GSAP.
+#### 🛠️ Languages & Tools
+- **Markup & Styling:** HTML, CSS, SASS/SCSS  
+- **Languages:** JavaScript, TypeScript  
+- **Frameworks & Libraries:** Angular (6+), Vue (2/3), Nuxt (3/4), React, Next.js  
+- **Animation & 3D:** GSAP, WebGL, Three.js, A-Frame, AR.js
 
 <!--
 **klivak/klivak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
