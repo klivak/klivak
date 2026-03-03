@@ -1,8 +1,5 @@
 ### Hello 👋
 
-#### 💼 Work Experience
-- Front-end Developer with **10+ years of experience**
-
 #### 🛠️ Languages & Tools
 - **Markup & Styling:** HTML, CSS, SASS/SCSS  
 - **Languages:** JavaScript, TypeScript  
