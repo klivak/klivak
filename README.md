@@ -3,7 +3,7 @@
 #### 🛠️ Languages & Tools
 - **Markup & Styling:** HTML, CSS, SASS/SCSS  
 - **Languages:** JavaScript, TypeScript  
-- **Frameworks & Libraries:** Angular (6+), Vue (2/3), Nuxt (3/4), React, Next.js  
+- **Frameworks & Libraries:** Angular, Vue, Nuxt, React, Next.js  
 - **Animation & 3D:** GSAP, WebGL, Three.js, A-Frame, AR.js
 
 <!--
