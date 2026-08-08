@@ -1,12 +1,12 @@
 ### Hello 👋
-
+<!--
 #### 🛠️ Languages & Tools
 - **Markup & Styling:** HTML, CSS, SASS/SCSS  
 - **Languages:** JavaScript, TypeScript  
 - **Frameworks & Libraries:** Angular, Vue, Nuxt, React, Next.js  
 - **Animation & 3D:** GSAP, WebGL, Three.js, A-Frame, AR.js
 
-<!--
+
 **klivak/klivak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
